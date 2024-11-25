@@ -17,9 +17,9 @@ Hopefully NOAA will publish a new file before that time.
 
 ## Installation
 
-1. [Download](https://github.com/DMT-Services/GeoMagnetism/archive/GeoMagnetism.zip) the Latest release from gitHub.
-2. Unzip and modify the Folder name to "LinkedList" (Remove the '-version')
-3. Paste the modified folder on your Library folder (On your `Libraries` folder inside Sketchbooks or Arduino software).
+1. [Download](https://github.com/DMT-Services/GeoMagnetism/GeoMagnetism.cpp) the Latest release from gitHub.
+2. Unzip and copy the GeoMagnetism folder
+3. Paste the folder in your Library folder (On your `Libraries` folder inside Sketchbooks or Arduino software).
 4. Reopen the Arduino software.
 
 ### Version History
