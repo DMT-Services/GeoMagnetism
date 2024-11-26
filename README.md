@@ -15,13 +15,8 @@ The SDRam card MUST have WMM.cof and EGM9615.bin files in the root folder.  The 
 I don't believe EGM9615.bin file will change, but WMM.cof is only good up until the end of 2025 I believe.
 Hopefully NOAA will publish a new file before that time.
 
-## Installation
-
-1. [Download](https://github.com/DMT-Services/GeoMagnetism/GeoMagnetism.cpp) the Latest release from gitHub.
-2. Unzip and copy the GeoMagnetism folder
-3. Paste the folder in your Library folder (On your `Libraries` folder inside Sketchbooks or Arduino software).
-4. Reopen the Arduino software.
 
 ### Version History
 
 * `1.0 (2024-11-25)`: Original release
+* `1.1 (2024-11-26)`: Added URL to library.properties
